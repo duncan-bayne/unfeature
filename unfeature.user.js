@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name           'Unfeature'
+// @name           Unfeature
 // @namespace      http://github.com/duncan-bayne/unfeature
-// @description    Removes the Featured Videos feed from YouTube, regardless of whether you're logged in or not.
+// @description    Removes the Featured Videos feed from YouTube.
 // @include        http://www.youtube.com/*
 // ==/UserScript==
 
