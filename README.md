@@ -6,7 +6,7 @@ Unfeature is a Greasemonkey script that removes the Featured Videos section from
 licence
 -------
 
-Unfeature is licensed under the GNU Lesser General Public License.
+Unfeature is licensed under the GNU Lesser General Public License.  See lgpl-3.0.txt for the full licence text.
 
 why the LGPL?
 -------------
